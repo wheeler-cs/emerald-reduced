@@ -6,13 +6,13 @@ Current memory usage:
 
 | **Memory Region** | **Used Size** | **Region Size** | **% Used** |
 |-|-|-|-|
-| EWRAM | 249648 B | 256 KB | 95.23% |
 | IWRAM | 30876 B | 32 KB | 94.23% |
 | ROM | 14550244 B | 32 MB | 43.36% |
+| cd | build/emerald && | arm-none-eabi-ld -T | ../../ld_script.ld |
 
 The current ROM that is built: 
 
-**pokeemerald.gba** `sha1: ce5bafd54471c8710ef31de140421d1bb53ed341`
+**pokeemerald.gba** `sha1: 5e3917760a80105111944a8f61cd129eb5084196`
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
